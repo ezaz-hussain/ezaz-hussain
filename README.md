@@ -50,7 +50,7 @@ Here are some ideas to get you started:
  <br /><br />
 => I’m currently working on Python!
  <br /><br />
-=> I’m currently learning Web Development at skiie
+=> I’m currently learning Web Development at #SKIIE#
  <br /><br />
 => I’m looking to collaborate with other content creators and developers
  <br /><br />
