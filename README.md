@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://profile-counter.glitch.me/ezaz-hussain/count.svg" />
 
 <a href="https://www.linkedin.com/in/ezaz-hussain-64987b19a/">
-  <img align="left" alt="Huzaifa's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ezaz's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/ezazhussain85">
   <img align="left" alt="Ezaz's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
