@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ## I'm a Programmer and Graphics Designer !
  Founder and CEO at <a href="http://ezaz.skiie.com/">ezaz.skiie</a> since 2013
 <br /><br />
-=> I am an Electronics Engineer Undergrad At GiK, Topi, Pakistan
+=> I am an Electronics Engineer Undergraduate At GiK, Topi, Pakistan
 <br /><br />
 => I am a Programmer and Graphics Designer
 <br /><br />
