@@ -73,7 +73,7 @@ Electronics Engineering | Programming | Web Development |
  
 => Top Software/Skills:<br />
 
-Creo |C++| Python
+Creo | Fusion 360 | C++ | Python
 
 
 
