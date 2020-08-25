@@ -73,7 +73,7 @@ Electronics Engineering | Programming | Web Development |
  
 => Top Software/Skills:<br />
 
-C++| Python
+Creo |C++| Python
 
 
 
