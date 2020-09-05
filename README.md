@@ -124,5 +124,6 @@ Creo | Fusion 360 | C++ | Python
  
  
 ### 🔗 Read More at http://ezaz.skiie.com/
+### also 🔗 Read More at https://ezaz-hussain.github.io/
 
 
