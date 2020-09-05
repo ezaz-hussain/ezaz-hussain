@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <a href="mailto:ezazhussain85@gmail.com">
   <img align="left" alt="Ezaz's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="http://ezaz.skiie.com/">🔗</a>
+<a href="https://ezaz-hussain.github.io">🔗</a>
  <br /><br />
  
 ## I'm a Programmer and Graphics Designer !
