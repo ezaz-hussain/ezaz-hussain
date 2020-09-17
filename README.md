@@ -127,5 +127,5 @@ Creo | Fusion 360 | C++ | Python
 ###                 also
 ### 🔗 Read More at https://ezaz-hussain.github.io/
 ###                 also
-### 🔗 Read More at https://ezaz-.netlify.app/
+### 🔗 Read More at https://ezaz.netlify.app/
 
