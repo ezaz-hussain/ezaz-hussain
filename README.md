@@ -123,9 +123,9 @@ Creo | Fusion 360 | C++ | Python
 ### @ Contact me at <a href="mailto:ezaz.skiie.com">ezazhussain85@gmail.com</a>
  
  
-### 🔗 Read More at http://ezaz.skiie.com/
-###                 also
 ### 🔗 Read More at https://ezaz-hussain.github.io/
 ###                 also
 ### 🔗 Read More at https://ezaz.netlify.app/
+###                 also
+### 🔗 Read More at http://ezaz.skiie.com/
 
